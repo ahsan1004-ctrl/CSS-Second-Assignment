@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    text-align: justify;
+    margin: 0 400px;
+    
+    
+}
+
+
+
+
+
+header{
+    border: 1px solid none;
+    height: 800px;
+    background-color: #eeeeee;
+
+
+}
+header div{
+
+}
+
+
+header img{
+    
+    width:  370px;
+    position:relative ;
+    bottom: 70px;
+    left: 700px;
+        
+    
+}
+
+header p{
+    
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid none;
+    text-align: left;
+    width: 450px;
+    position: relative;
+    top: 300px;
+    left: 50px;
+
+
+}
+
+
+header button{
+    position: relative;
+    top: 310px;
+    left: 50px;
+    font-size: larger;
+    border-radius: 30px;
+    padding: 9px;
+    color: yellow;
+    background-color: blue;
+}
+
+
+
+
+body{
+    background-image: url( ../Asserts/images/bg.jpg );
+    opacity: 1;
+    /* background-attachment: scroll; */
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+
+main{
+    padding: 400px 0 0 0  ;
+}
+
+main p:first-child{
+    display: inline-block;
+    border: 1px solid none;
+    width: 500px;
+    text-align: justify;
+    text-align-last: center;
+    margin: 400px 0 0 50;
+    font-size: 35px;
+    margin-left: 100px ;
+    
+    
+}
+#p2{
+    display: inline-block;
+    border: 1px solid none;
+    width: 500px;
+    text-align: justify;
+    text-align-last: center;
+    font-size: 35px;
+    margin: 200 0 100px 50px;
+    margin-left: 100px;
+    
+    
+    
+}
+#p3{
+    display: inline-block;
+    border: 1px solid none;
+    width: 450px;
+    text-align: justify;
+    text-align-last: center;
+    font-size: 35px;
+    margin: 200 0 100px 50px;
+    margin-left: 100px;
+    margin-bottom: 300px;
+   
+    
+    
+}
+
+
+
+
+.box2{
+    border: 1px solid black;
+    width: 100%;
+    height: 700px;
+    background-color: white;
+
+}
+
+
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 250px 0 0 0 ;
+}
+
+#textmi{
+    border: 1px solid none;
+    width: 800px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 0   auto;
+
+}
+
+
+
+.visit{
+    text-align: center;
+    border: 1px solid none;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(135, 235, 227) ;
+    margin: 12px 0 0 900px;
+    cursor: pointer;
+    
+}
+
+
+.textre h1{
+    color: rgba(255, 255, 255, 0.774);
+    margin-bottom: 12px;
+}
+
+.textre p{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    border: 1px solid none;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto ;
+    margin-bottom: 22px;
+
+    
+}
+
+.boxim{
+    display: inline-block;
+    margin-top: 100px;
+    border: 2px dashed black;
+    border-style: dashed ;
+    width: 500px;
+    height: 300px;
+    
+
+
+}
+.boxim1{
+    display: inline-block;
+    border: 2px solid black;
+    border-style: dashed ;
+    width: 500px;
+    height: 300px;
+    
+
+
+}
+
+
+
+.boxim , .boxim1{
+    text-align: center;
+    margin-left: 300px;
+    color: white;
+    font-size: 40px;
+    padding-top: 125px;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+
+}
+
+
+
+footer {
+    margin-bottom: 200px;
+    display: inline;
+    text-align: center;
+    border: 1px solid black;
+    width: 100px;
+    color: whitesmoke;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    
+}
+
+
+footer > p{
+    border: 1px solid none ;
+    margin: 0 auto;
+    width: 600px;
+}
+
+body{
+    margin-bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
